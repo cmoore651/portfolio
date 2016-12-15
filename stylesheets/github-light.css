@@ -29,7 +29,7 @@ SOFTWARE.
 
 .pl-c1 /* constant, variable.other.constant, support, meta.property-name, support.constant, support.variable, meta.module-reference, markup.raw, meta.diff.header */,
 .pl-s .pl-v /* string variable */ {
-  color: #86B300;
+  color: #0086B3;
 }
 
 .pl-e /* entity */,
